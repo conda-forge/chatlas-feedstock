@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.21.2"
+  version: "0.23.0"
 
 package:
   name: chatlas
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/c/chatlas/chatlas-${{ version }}.tar.gz
-  sha256: 65efcd3cbef63835f29091d54a8168c0bc563045ac80846a9eb498c8de45342d
+  sha256: 4392b1ae91e8fb02841e5dfa70a9559a4c9a602f6dc40897fcee4f5215038446
 
 build:
   number: 0
